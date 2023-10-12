@@ -4,6 +4,8 @@
 
 NOTE: Only change the values of the margin and padding for this exercise. Do not add or remove properties in the CSS or touch the provided HTML file. 
 
+![outcome](./desired-outcome-1.png)
+
 ### Task:
 * Div One and Div Three have 32px between their text and border.
 * Div One has 12px between it and any other element on the page.
